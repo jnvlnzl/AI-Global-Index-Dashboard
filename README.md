@@ -5,5 +5,5 @@ The dataset includes the global AI index itself and seven indicators affecting t
 
 Exploratory Data Analysis (EDA), regression, and clustering analysis were done before creating the dashboard.
 
-[Kaggle Dataset](https://www.kaggle.com/datasets/katerynameleshenko/ai-index/data)
+[Kaggle Dataset](https://www.kaggle.com/datasets/katerynameleshenko/ai-index/data) <br>
 [Tableau Workbook](https://public.tableau.com/views/Book4_17539282667590/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
